@@ -5,5 +5,10 @@
 <img height = "80px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" />
 
 </div>
+<h4>Contributors:<br>
+
+1.Anjali Kushwaha
+2.Prashant Prithyani
+</h4>
 
 <hr>
