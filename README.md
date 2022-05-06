@@ -7,8 +7,8 @@
 </div>
 <h4>Contributors:<br>
 
-1.Anjali Kushwaha
-<a href="https://github.com/yellowflash1777" >2.Prashant Prithyani <br></a>
+1.Anjali Kushwaha<br>
+<a href="https://github.com/yellowflash1777" >2.Prashant Prithyani </a>
 </h4>
 
 <hr>
