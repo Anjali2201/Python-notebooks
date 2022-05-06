@@ -8,7 +8,7 @@
 <h4>Contributors:<br>
 
 1.Anjali Kushwaha
-2.Prashant Prithyani
+<a href="https://github.com/yellowflash1777" >2.Prashant Prithyani <br></a>
 </h4>
 
 <hr>
