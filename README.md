@@ -1,4 +1,4 @@
-# Python Popular Libraries for Machine Learning Basics and sample datasets
+# Python Popular Libraries for Data Science and Machine Learning Basics and sample datasets
 
 
 <div id="badges" align="center">
