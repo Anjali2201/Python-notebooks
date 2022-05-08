@@ -2,13 +2,13 @@
 
 
 <div id="badges" align="center">
-<img height = "80px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" />
+<img height = "80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 </div>
 <h4>Contributors:<br>
 
-1.Anjali Kushwaha<br>
-<a href="https://github.com/yellowflash1777" >2.Prashant Prithyani </a>
+<a href="https://github.com/Anjali2201" >Anjali Kushwaha<br>
+<a href="https://github.com/yellowflash1777" >Prashant Prithyani </a>
 </h4>
 
 <hr>
