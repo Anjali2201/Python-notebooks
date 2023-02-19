@@ -78,7 +78,7 @@ jupyter notebook
 1. Create a new branch.
 2. Add the new notebook.
 3. Commit the changes.
-4. Push the changes.
+4. Push the changes..
 5. Create a pull request.
 
 Thanks for reading this far. If you like this repository, please give it a star. If you have any suggestions, please create an issue.
