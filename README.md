@@ -4,7 +4,7 @@
 <img height = "80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
 
-Hello everyone, this repository is a collection of the Python notebooks which uses popular python libraries for Data Science and Machine Learning.
+This repository is a collection of the Python notebooks which uses popular python libraries for Data Science and Machine Learning.
 
 Objective of this repository is to provide a collection of notebooks which can be used as a reference for learning and practicing the concepts of Data Science and Machine Learning.
 
